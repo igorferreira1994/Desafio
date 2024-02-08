@@ -1,0 +1,11 @@
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\bin\Debug\net7.0\DomainWebApi.deps.json
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\bin\Debug\net7.0\DomainWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\bin\Debug\net7.0\DomainWebApi.pdb
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\DomainWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\DomainWebApi.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\DomainWebApi.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\DomainWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\DomainWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\refint\DomainWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\DomainWebApi.pdb
+C:\Users\Igor\source\repos\CadastroWebApi\DomainWebApi\obj\Debug\net7.0\ref\DomainWebApi.dll

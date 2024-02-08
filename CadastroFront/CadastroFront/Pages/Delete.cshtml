@@ -1,0 +1,43 @@
+﻿@page
+@model DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3>Deseja apagar esse cliente?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cliente.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cliente.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cliente.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cliente.Logotipo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cliente.Logotipo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cliente.IdLogradouro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cliente.IdLogradouro)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Cliente.IdCliente" />
+        <input type="submit" value="Apagar" class="btn btn-danger" /> 
+        <a asp-page="./Index" class="btn btn-info">Voltar</a>
+    </form>
+</div>

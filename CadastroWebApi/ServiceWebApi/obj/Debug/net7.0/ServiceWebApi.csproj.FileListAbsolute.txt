@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\ServiceWebApi.deps.json
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\ServiceWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\ServiceWebApi.pdb
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.csproj.CopyComplete
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\refint\ServiceWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ServiceWebApi.pdb
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\obj\Debug\net7.0\ref\ServiceWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\DomainWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\DomainWebApi.pdb
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\RepositoryWebApi.dll
+C:\Users\Igor\source\repos\CadastroWebApi\ServiceWebApi\bin\Debug\net7.0\RepositoryWebApi.pdb

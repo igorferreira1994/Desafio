@@ -1,0 +1,44 @@
+﻿@page
+@model IndexLogModel
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Cadastro de Logradouros</h2>
+
+<p>
+    <a class="btn btn-outline-primary" asp-page="./Create">Novo Logradouro</a>
+    <a class="btn btn-outline-secondary" asp-page="../Index">Cadastro Clientes</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                IdLogradouro
+            </th>
+            <th>
+                Descrição
+            </th>           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Logradouro)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdLogradouro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>            
+                <td>
+                    <a asp-page="./Edit" class="btn btn-outline-warning" asp-route-id="@item.IdLogradouro">Editar</a>
+                    <a asp-page="./Delete" class="btn btn-outline-danger" asp-route-id="@item.IdLogradouro">Apagar</a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

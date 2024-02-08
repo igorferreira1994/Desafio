@@ -1,0 +1,25 @@
+﻿@page
+@model DeleteLogModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3>Deseja apagar esse logradouro?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Logradouros.Descricao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Logradouros.Descricao)
+        </dd>        
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Logradouros.IdLogradouro" />
+        <input type="submit" value="Apagar" class="btn btn-danger" /> 
+        <a asp-page="./Index" class="btn btn-info">Voltar</a>
+    </form>
+</div>
